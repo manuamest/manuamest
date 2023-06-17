@@ -41,14 +41,6 @@ Estudiante de ingeniería informática de la Universidad de A Coruña (UDC) con 
 - Jetty
 - Git
 
-## Proyectos Destacados
-
-Aquí puedes encontrar algunos de mis proyectos destacados:
-
-1. [ProyectoX](link-al-proyecto): Una aplicación Java que resuelve problemas de optimización utilizando algoritmos genéticos.
-2. [ProyectoY](link-al-proyecto): Una página web personalizada utilizando HTML, CSS y JavaScript.
-3. [ProyectoZ](link-al-proyecto): Un programa Python que implementa un clasificador de texto utilizando la biblioteca Scikit-learn.
-
 ## Contacto
 
 Si deseas ponerse en contacto conmigo puedes encontrarme en los siguientes enlaces:
