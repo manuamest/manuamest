@@ -15,13 +15,13 @@ I'm passionate about software development and have worked on a variety of projec
 ## Notable Projects
 Here are some of my standout projects on GitHub:
 
-### Minecraft Zombie Sound Recognition 🧟‍♂️:
+### [Minecraft Zombie Sound Recognition 🧟‍♂️](https://github.com/manuamest/PracticasAA):
 I developed a sound recognition system that can identify zombie sounds in the popular game Minecraft. This project uses machine learning to distinguish zombie noises from other in-game sounds, enhancing the player's experience.
 
-### Magic Square Solver 🧮:
+### [Magic Square Solver 🧮](https://github.com/manuamest/MagicSquare):
 I created an algorithm to solve magic squares, which are mathematical puzzles where the sum of numbers in each row, column, and diagonal is the same. This project demonstrates my mathematical problem-solving skills.
 
-### Shingoki Puzzle Solver 🧩:
+### [Shingoki Puzzle Solver 🧩](https://github.com/manuamest/ShingokiSolver):
 I developed a solver for Shingoki puzzles, a challenging logic puzzle involving connecting points on a grid. My program efficiently finds solutions to these puzzles, showcasing my problem-solving and algorithmic abilities.
 
 ### Custom Computer Vision Filters 📸 (private): 
