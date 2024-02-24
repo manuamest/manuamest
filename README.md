@@ -18,7 +18,7 @@ I'm passionate about software development and have worked on a variety of projec
 ## Notable Projects
 Here are some of my standout projects on GitHub:
 
-### [Minecraft Zombie Sound Recognition 🧟‍♂️]((https://github.com/manuamest/AA)):
+### [Minecraft Zombie Sound Recognition 🧟‍♂️](https://github.com/manuamest/AA):
 I developed a sound recognition system that can identify zombie sounds in the popular game Minecraft. This project uses machine learning to distinguish zombie noises from other in-game sounds, enhancing the player's experience.
 
 ### [Magic Square Solver 🧮](https://github.com/manuamest/MagicSquare):
