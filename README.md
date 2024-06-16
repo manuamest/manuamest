@@ -16,7 +16,7 @@ Here are some of my standout projects on GitHub:
 ### [SoccerImgDetector ⚽](https://github.com/manuamest/SoccerImgDetector):
 This project uses VA for detecting elements in soccer, built in python 
 
-### [HACKUPC2024-SCRIPTS 👕](https://github.com/manuamest/HACKUPC2024-SCRIPTS)
+### [HACKUPC2024-SCRIPTS 👕](https://github.com/manuamest/HACKUPC2024-SCRIPTS):
 Scripts for two implementations, IA and VA similarity sorting by an input, built in python
 
 ### [Minecraft Zombie Sound Recognition 🧟‍♂️](https://github.com/manuamest/AA):
