@@ -13,14 +13,14 @@ Hello! I'm Manu, a Computer Engineering student with a specialization in **Artif
 ## Notable Projects
 Here are some of my standout projects on GitHub:
 
+### [SoccerImgDetector ⚽](https://github.com/manuamest/SoccerImgDetector):
+This project uses VA for detecting elements in soccer, built in python 
+
+### [HACKUPC2024-SCRIPTS 👕](https://github.com/manuamest/HACKUPC2024-SCRIPTS)
+Scripts for two implementations, IA and VA similarity sorting by an input, built in python
+
 ### [Minecraft Zombie Sound Recognition 🧟‍♂️](https://github.com/manuamest/AA):
 I developed a sound recognition system that can identify zombie sounds in the popular game Minecraft. This project uses machine learning to distinguish zombie noises from other in-game sounds, enhancing the player's experience.
-
-### [Magic Square Solver 🧮](https://github.com/manuamest/MagicSquare):
-I created an algorithm to solve magic squares, which are mathematical puzzles where the sum of numbers in each row, column, and diagonal is the same. This project demonstrates my mathematical problem-solving skills.
-
-### [Shingoki Puzzle Solver 🧩](https://github.com/manuamest/ShingokiSolver):
-I developed a solver for Shingoki puzzles, a challenging logic puzzle involving connecting points on a grid. My program efficiently finds solutions to these puzzles, showcasing my problem-solving and algorithmic abilities.
 
 ## Contact Me 📬
 📧 Email: [manuel.amestoy@udc.es](mailto:manuel.amestoy@udc.es)
