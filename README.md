@@ -84,9 +84,6 @@ class Experience:
   <a href="https://github.com/manuamest/DICOMVIEWER">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuamest&repo=DICOMVIEWER&theme=tokyonight" />
   </a>
-  <a href="https://github.com/manuamest/tase-app-a7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuamest&repo=tase-app-a7&theme=tokyonight" />
-  </a>
   <a href="https://github.com/manuamest/SoccerImgDetector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuamest&repo=SoccerImgDetector&theme=tokyonight" />
   </a>
