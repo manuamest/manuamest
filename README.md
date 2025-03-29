@@ -76,41 +76,6 @@ class Experience:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuamest&layout=compact&theme=tokyonight" alt="Top Langs" height="170">
 </div>
 
-## 📂 Proyectos Destacados
-
-### Proyectos Principales
-
-<div align="center">
-  <a href="https://github.com/manuamest/DICOMVIEWER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuamest&repo=DICOMVIEWER&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/manuamest/SoccerImgDetector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuamest&repo=SoccerImgDetector&theme=tokyonight" />
-  </a>
-</div>
-
-#### Sistema de Visualización de Historial Clínico en AR
-TFG: Desarrollo de un sistema para visualizar historiales médicos en realidad aumentada para HoloLens 2, mejorando el acceso y comprensión de datos médicos.
-- En el repositorio unicamente esta el codigo del proyecto en python, para el codigo del proyecto de unity contactame.
-- 🔗 [Repositorio](https://github.com/manuamest/DICOMVIEWER) | [Investigación](https://ruc.udc.es/dspace/handle/2183/39622)
-- 🛠️ Augmented Reality, HoloLens 2, Unity, DICOM, C#
-
-#### SoccerImgDetector
-Proyecto que utiliza Visión por Computador para detectar elementos en el fútbol: campo de juego, líneas de límite, balón, jugadores y árbitro.
-- 🔗 [Repositorio](https://github.com/manuamest/SoccerImgDetector)
-- 🛠️ Python, Computer Vision, OpenCV
-
-### Proyectos Hackathon
-
-<div align="center">
-  <a href="https://github.com/manuamest/HackUDC2025-Denodo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuamest&repo=HackUDC2025-Denodo&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/manuamest/HACKUPC2024-SCRIPTS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuamest&repo=HACKUPC2024-SCRIPTS&theme=tokyonight" />
-  </a>
-</div>
-
 ## 📫 Contacto
 
 ¿Tienes un proyecto interesante o una oportunidad de trabajo? ¡Contáctame!
