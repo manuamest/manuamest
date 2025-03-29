@@ -91,13 +91,9 @@ class Experience:
 
 #### Sistema de Visualización de Historial Clínico en AR
 TFG: Desarrollo de un sistema para visualizar historiales médicos en realidad aumentada para HoloLens 2, mejorando el acceso y comprensión de datos médicos.
+- En el repositorio unicamente esta el codigo del proyecto en python, para el codigo del proyecto de unity contactame.
 - 🔗 [Repositorio](https://github.com/manuamest/DICOMVIEWER) | [Investigación](https://ruc.udc.es/dspace/handle/2183/39622)
 - 🛠️ Augmented Reality, HoloLens 2, Unity, DICOM, C#
-
-#### Aplicación de tasación de inmuebles
-Desarrollo de una aplicación para la tasación inmobiliaria utilizando IA para predecir valores de propiedades basados en múltiples factores y tendencias del mercado.
-- 🔗 [Repositorio](https://github.com/manuamest/tase-app-a7)
-- 🛠️ Svelte, APIs, Real Estate
 
 #### SoccerImgDetector
 Proyecto que utiliza Visión por Computador para detectar elementos en el fútbol: campo de juego, líneas de límite, balón, jugadores y árbitro.
