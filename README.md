@@ -43,12 +43,13 @@ class Experience:
 
 ## 🏆 Logros
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HackUDC%202025-Winner-gold?style=for-the-badge&logo=trophy&logoColor=gold">
+<div align="center">  
+  <img src="https://img.shields.io/badge/HackUPC%202025-Winner-gold?style=for-the-badge&logo=trophy&logoColor=white">
+  <img src="https://img.shields.io/badge/HackUDC%202025-Winner-gold?style=for-the-badge&logo=trophy&logoColor=red">
 </div>
 
+- 🥇 **Primer premio** en el reto InditexTECH en HackUPC 2025
 - 🥇 **Primer premio** en el reto Denodo en HackUDC 2025
-- 📈 Desarrollo de soluciones innovadoras con IA y visión por computador
 
 ## 🛠️ Habilidades Técnicas
 
