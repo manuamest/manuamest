@@ -10,7 +10,7 @@ Ingeniero Informático especializado en **Inteligencia Artificial (IA)** y **Vis
 
 - 🔭 Actualmente trabajando en **CINFO Company** como AI Developer
 - 🎓 Graduado en **Ingeniería Informática** por la **Universidade da Coruña**
-- 🌱 Especializado en Machine Learning, Visión por Computador y Realidad Aumentada
+- 🌱 Especializado en Vision artificial, LLMs e IA 
 - 🏠 Galicia, España 🇪🇸
 
 <div align="center">
