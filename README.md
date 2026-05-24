@@ -1,95 +1,66 @@
-# 👋 ¡Hola, soy Manuel Amestoy!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4F85E5&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Specialist;Computer+Vision+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:4f85e5&height=220&section=header&text=Manu%20Amestoy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs&descAlignY=56&descSize=19&descColor=b8d4f5" width="100%"/>
 </div>
 
-## 🚀 Sobre mí
-
-Ingeniero Informático especializado en **Inteligencia Artificial (IA)** y **Visión por Computador**. Mi pasión por la tecnología y la IA me ha llevado a explorar diferentes áreas dentro del campo de la informática.
-
-- 🔭 Actualmente trabajando en **CINFO Company** como AI Developer
-- 🎓 Graduado en **Ingeniería Informática** por la **Universidade da Coruña**
-- 🌱 Especializado en Vision artificial, LLMs e IA 
-- 🏠 Galicia, España 🇪🇸
-
 <div align="center">
-  <a href="mailto:amestoymanu@gmail.com"><img src="https://img.shields.io/badge/Email-amestoymanu%40gmail.com-4f85e5?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jose-manuel-amestoy-l%C3%B3pez-5a849629a/"><img src="https://img.shields.io/badge/LinkedIn-José_Manuel_Amestoy_López-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/manuamest"><img src="https://img.shields.io/badge/GitHub-manuamest-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=4F85E5&center=true&vCenter=true&width=500&lines=Building+things+that+see...;Building+things+that+understand...;Building+things+that+reason.;AI+Developer+%40+CINFO+%C2%B7+Galicia+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
 </div>
 
-## 💼 Experiencia
-
-```python
-class Experience:
-    def __init__(self):
-        self.current_role = {
-            "company": "CINFO Company",
-            "position": "AI Developer",
-            "start_date": "July 2024",
-            "end_date": "Present",
-            "description": "Desarrollando soluciones de IA y aplicaciones de visión por computador"
-        }
-        
-        self.education = {
-            "institution": "Universidade da Coruña",
-            "degree": "Computer Engineering",
-            "specialization": "Software Development, Algorithms, Databases, Networks, AI, Cybersecurity, LLM",
-            "start_date": "2020",
-            "end_date": "2024"
-        }
-```
-
-## 🏆 Logros
-
-<div align="center">  
-  <img src="https://img.shields.io/badge/HackUPC%202025-Winner-gold?style=for-the-badge&logo=trophy&logoColor=white">
-  <img src="https://img.shields.io/badge/HackUDC%202025-Winner-gold?style=for-the-badge&logo=trophy&logoColor=red">
-</div>
-
-- 🥇 **Primer premio** en el reto InditexTECH en HackUPC 2025
-- 🥇 **Primer premio** en el reto Denodo en HackUDC 2025
-
-## 🛠️ Habilidades Técnicas
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <a href="mailto:amestoymanu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jose-manuel-amestoy-l%C3%B3pez-5a849629a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/manuamest"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://www.instagram.com/manuamest/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </div>
 
-### Áreas de especialización
+---
 
-- 🤖 **Inteligencia Artificial**: Machine Learning, procesamiento de lenguaje natural, visión por computador
-- 👁️ **Visión por Computador**: Clasificación de imágenes, detección de objetos, reconocimiento de patrones
-- 🥽 **Realidad Aumentada**: Desarrollo de aplicaciones AR para visualización médica y experiencias interactivas
-
-## 📊 Estadísticas GitHub
+### 🏆 &nbsp;Competitive Track Record
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuamest&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuamest&layout=compact&theme=tokyonight" alt="Top Langs" height="170">
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|
+| <img src="https://img.shields.io/badge/HackUPC_2025-1st_Place-FFD700?style=for-the-badge&labelColor=0d1b2a"/> <br><sub>InditexTECH Challenge · Barcelona</sub> | <img src="https://img.shields.io/badge/HackUDC_2025-1st_Place-FFD700?style=for-the-badge&labelColor=0d1b2a"/> <br><sub>Denodo Challenge · A Coruña</sub> |
+
 </div>
 
-## 📫 Contacto
+---
 
-¿Tienes un proyecto interesante o una oportunidad de trabajo? ¡Contáctame!
+### ⚡ &nbsp;Stack
 
 <div align="center">
-  <a href="mailto:amestoymanu@gmail.com"><img src="https://img.shields.io/badge/Email-amestoymanu%40gmail.com-4f85e5?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jose-manuel-amestoy-l%C3%B3pez-5a849629a/"><img src="https://img.shields.io/badge/LinkedIn-José_Manuel_Amestoy_López-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/manuamest"><img src="https://img.shields.io/badge/GitHub-manuamest-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/manuamest/"><img src="https://img.shields.io/badge/Instagram-manuamest-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,gcp,unity,git&perline=8" />
+</div>
+
+---
+
+### 📊 &nbsp;GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=manuamest&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuamest&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/manuamest/manuamest/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/manuamest/manuamest/blob/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://github.com/manuamest/manuamest/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuamest&color=4f85e5&style=flat-square&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=manuamest&color=4f85e5&style=flat-square&label=Profile+Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f85e5,100:0d1b2a&height=120&section=footer" width="100%"/>
 </div>
