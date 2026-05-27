@@ -42,7 +42,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manuamest&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuamest&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
 </div>
 
 <br>
