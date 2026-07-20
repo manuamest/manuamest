@@ -40,8 +40,11 @@
 ### 📊 &nbsp;GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=manuamest&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
-  &nbsp;
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=manuamest&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity"
+    alt="Manu Amestoy's GitHub activity graph"
+    width="100%"
+  />
 </div>
 
 <br>
