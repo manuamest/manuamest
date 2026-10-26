@@ -62,8 +62,8 @@ Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc i
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[STACKSPECT](https://github.com/STACKSPECT)** 🏆 | Robotic arm that stacks pallets without tipping them over, plus the observability platform that scores each run | Python · MuJoCo · Next.js · Supabase |
-| **[EchoLook](https://github.com/EchoLook/echolook)** 🏆 | Find, try on and buy clothes using voice and visual AI | Vue · Node.js · PyTorch · Gemini · Whisper |
+| **[STACKSPECT](https://github.com/STACKSPECT)** | Robotic arm that stacks pallets without tipping them over, plus the observability platform that scores each run | Python · MuJoCo · Next.js · Supabase |
+| **[EchoLook](https://github.com/EchoLook/echolook)** | Find, try on and buy clothes using voice and visual AI | Vue · Node.js · PyTorch · Gemini · Whisper |
 | **[ShelfPickVA](https://github.com/manuamest/ShelfPickVA)** | Bottle detection and shelf interaction with ROI configuration | Python · YOLO · OpenCV |
 | **[Localdeck](https://github.com/manuamest/localdeck)** | Zero-config dashboard that discovers your local services | FastAPI · React · TypeScript · Docker |
 | **[Diffy](https://github.com/manuamest/diffy)** | Lightweight, fast and beautiful code comparison tool | JavaScript |
