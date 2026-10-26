@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030914,55:071426,100:275fb6&height=230&section=header&text=Manu%20Amestoy&fontSize=58&fontColor=eef5ff&animation=fadeIn&fontAlignY=36&desc=Computer%20Vision%20%26%20GenAI%20Engineer&descAlignY=56&descSize=20&descColor=69a2ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:4f85e5&height=220&section=header&text=Manu%20Amestoy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs&descAlignY=56&descSize=19&descColor=b8d4f5" width="100%"/>
 </div>
 
 <div align="center">
@@ -48,25 +48,13 @@ Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc i
 
 ### 🏆 &nbsp;Hackathon wins
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/hackspain26.jpg" alt="HackSpain 26 track winners" width="100%"/>
-      <br><img src="https://img.shields.io/badge/HackSpain_26-Track_Winner-ffcb68?style=for-the-badge&labelColor=071426"/>
-      <br><sub><b>Theker Track</b> · Madrid, UPM ETSIT · Sept 2026<br>Team Dream Team V2</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/hackupc25.jpg" alt="HackUPC 2025 winners" width="100%"/>
-      <br><img src="https://img.shields.io/badge/HackUPC_2025-1st_Place-ffcb68?style=for-the-badge&labelColor=071426"/>
-      <br><sub><b>InditexTECH Challenge</b> · Barcelona<br>Europe's largest hackathon (+750 hackers) · <a href="https://github.com/EchoLook/echolook">EchoLook</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/hackudc25.jpg" alt="HackUDC 2025 winners" width="100%"/>
-      <br><img src="https://img.shields.io/badge/HackUDC_2025-1st_Place-ffcb68?style=for-the-badge&labelColor=071426"/>
-      <br><sub><b>Denodo Challenge</b> · A Coruña<br>Galicia's largest hackathon (+250 hackers) · <a href="https://github.com/martinge17/HackUDC25-Denodo">Data Assistant</a></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| <img src="https://img.shields.io/badge/HackSpain_26-Track_Winner-ffcb68?style=for-the-badge&labelColor=071426"/> | <img src="https://img.shields.io/badge/HackUPC_2025-1st_Place-ffcb68?style=for-the-badge&labelColor=071426"/> | <img src="https://img.shields.io/badge/HackUDC_2025-1st_Place-ffcb68?style=for-the-badge&labelColor=071426"/> |
+|:---:|:---:|:---:|
+| <sub>Theker Track · Madrid · <a href="https://github.com/STACKSPECT">STACKSPECT</a></sub> | <sub>InditexTECH Challenge · Barcelona · <a href="https://github.com/EchoLook/echolook">EchoLook</a></sub> | <sub>Denodo Challenge · A Coruña · <a href="https://github.com/martinge17/HackUDC25-Denodo">Data Assistant</a></sub> |
+
+</div>
 
 ---
 
@@ -74,6 +62,7 @@ Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc i
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[STACKSPECT](https://github.com/STACKSPECT)** 🏆 | Robotic arm that stacks pallets without tipping them over, plus the observability platform that scores each run | Python · MuJoCo · Next.js · Supabase |
 | **[EchoLook](https://github.com/EchoLook/echolook)** 🏆 | Find, try on and buy clothes using voice and visual AI | Vue · Node.js · PyTorch · Gemini · Whisper |
 | **[ShelfPickVA](https://github.com/manuamest/ShelfPickVA)** | Bottle detection and shelf interaction with ROI configuration | Python · YOLO · OpenCV |
 | **[Localdeck](https://github.com/manuamest/localdeck)** | Zero-config dashboard that discovers your local services | FastAPI · React · TypeScript · Docker |
@@ -81,29 +70,11 @@ Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc i
 
 ---
 
-### ⚡ &nbsp;Engineering capabilities
+### ⚡ &nbsp;Stack
 
-**Computer Vision & ML**
-<br>
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv&theme=dark"/>&nbsp;
-<img src="https://img.shields.io/badge/YOLO-071426?style=for-the-badge&logo=yolo&logoColor=69a2ff"/>
-<img src="https://img.shields.io/badge/Embeddings-071426?style=for-the-badge&logoColor=69a2ff"/>
-
-**GenAI & Workflows**
-<br>
-<img src="https://img.shields.io/badge/LLMs-071426?style=for-the-badge&logo=openai&logoColor=69a2ff"/>
-<img src="https://img.shields.io/badge/Gemini-071426?style=for-the-badge&logo=googlegemini&logoColor=69a2ff"/>
-<img src="https://img.shields.io/badge/Whisper-071426?style=for-the-badge&logo=openai&logoColor=69a2ff"/>
-<img src="https://img.shields.io/badge/Structured_outputs-071426?style=for-the-badge&logoColor=69a2ff"/>
-<img src="https://img.shields.io/badge/Agent_workflows-071426?style=for-the-badge&logoColor=69a2ff"/>
-
-**Backend & Systems**
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,ts,js,react,vue&theme=dark"/>
-
-**Production & Infrastructure**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,linux,gcp,githubactions,git,godot,unity&theme=dark"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,flask,docker,linux,gcp,githubactions,ts,js,react,nextjs,vue,nodejs,supabase,godot,unity,git&perline=11" />
+</div>
 
 ---
 
@@ -111,16 +82,6 @@ Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc i
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manuamest&hide_border=true&border_radius=10&background=071426&ring=69A2FF&fire=FFCB68&currStreakNum=EEF5FF&sideNums=EEF5FF&currStreakLabel=69A2FF&sideLabels=9FB0C5&dates=71849C&stroke=1B3A66" alt="GitHub streak stats" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/manuamest/manuamest/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuamest/manuamest/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/manuamest/manuamest/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
 </div>
 
 ---
@@ -134,5 +95,5 @@ Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc i
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:275fb6,45:071426,100:030914&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f85e5,100:0d1b2a&height=120&section=footer" width="100%"/>
 </div>
