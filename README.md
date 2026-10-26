@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=4F85E5&center=true&vCenter=true&width=500&lines=Building+things+that+see...;Building+things+that+understand...;Building+things+that+reason.;AI+Developer+%40+CINFO+%C2%B7+Galicia+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=4F85E5&center=true&vCenter=true&width=500&lines=Building+things+that+see...;Building+things+that+understand...;Building+things+that+reason.;3x+Hackathon+Winner+%F0%9F%8F%86;AI+Developer+%40+CINFO+%C2%B7+Galicia+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
 </div>
 
 <br>
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|:---:|:---:|
-| <img src="https://img.shields.io/badge/HackUPC_2025-1st_Place-FFD700?style=for-the-badge&labelColor=0d1b2a"/> <br><sub>InditexTECH Challenge · Barcelona</sub> | <img src="https://img.shields.io/badge/HackUDC_2025-1st_Place-FFD700?style=for-the-badge&labelColor=0d1b2a"/> <br><sub>Denodo Challenge · A Coruña</sub> |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/HackUPC_2025-1st_Place-FFD700?style=for-the-badge&labelColor=0d1b2a"/> <br><sub>InditexTECH Challenge · Barcelona</sub> | <img src="https://img.shields.io/badge/HackUDC_2025-1st_Place-FFD700?style=for-the-badge&labelColor=0d1b2a"/> <br><sub>Denodo Challenge · A Coruña</sub> | <img src="https://img.shields.io/badge/HackSpain_26-Track_Winner-FFD700?style=for-the-badge&labelColor=0d1b2a"/> <br><sub>Theker Track · Madrid</sub> |
 
 </div>
 
@@ -32,7 +32,14 @@
 ### ⚡ &nbsp;Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,gcp,unity,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,fastapi,docker,linux,ts,js,react,vue,nodejs,gcp,godot,git&perline=8" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LLMs_%26_GenAI-4f85e5?style=flat-square&logoColor=white"/>
 </div>
 
 ---
@@ -51,9 +58,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/manuamest/manuamest/blob/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/manuamest/manuamest/blob/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://github.com/manuamest/manuamest/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/manuamest/manuamest/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuamest/manuamest/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/manuamest/manuamest/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
