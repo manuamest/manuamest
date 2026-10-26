@@ -32,7 +32,14 @@
 ### ⚡ &nbsp;Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,gcp,unity,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,fastapi,docker,linux,ts,js,react,vue,nodejs,gcp,godot,git&perline=8" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LLMs_%26_GenAI-4f85e5?style=flat-square&logoColor=white"/>
 </div>
 
 ---
