@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=69A2FF&center=true&vCenter=true&width=560&lines=I+build+AI+systems+that+work+in+production.;Computer+Vision+%C2%B7+GenAI+%C2%B7+Backend+systems;3x+Hackathon+Winner+%F0%9F%8F%86;GenAI+%26+CV+Engineer+%40+CINFO+%C2%B7+Galicia+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=69A2FF&center=true&vCenter=true&width=560&lines=I+build+AI+systems+that+work+in+production.;Computer+Vision+%C2%B7+GenAI+%C2%B7+Backend+systems;3x+Hackathon+Winner+%F0%9F%8F%86;GenAI+Developer+%40+DEUS+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 
 AI Engineer focused on **production-ready systems**: computer vision, Python backends, automated testing, observability and distributed GenAI workflows. I like owning the difficult middle, the part between a model that works in a notebook and a system that works in the real world.
 
-Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc in Computer Engineering, Universidade da Coruña.
+Currently **GenAI Developer at DEUS** (since November 2026). Previously AI & Computer Vision at **CINFO** (July 2024 to October 2026), from AI Junior Developer to GenAI & Computer Vision Engineer. BSc in Computer Engineering, Universidade da Coruña.
 
 ---
 
