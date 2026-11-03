@@ -30,7 +30,42 @@
 
 AI Engineer focused on **production-ready systems**: computer vision, Python backends, automated testing, observability and distributed GenAI workflows. I like owning the difficult middle, the part between a model that works in a notebook and a system that works in the real world.
 
-Currently **GenAI Developer at DEUS** (since November 2026). Previously AI & Computer Vision at **CINFO** (July 2024 to October 2026), from AI Junior Developer to GenAI & Computer Vision Engineer. BSc in Computer Engineering, Universidade da Coruña.
+---
+
+### 💼 &nbsp;Experience
+
+```python
+class Experience:
+    def __init__(self):
+        self.current_role = {
+            "company": "DEUS",
+            "position": "GenAI Developer",
+            "start_date": "November 2026",
+            "end_date": "Present",
+        }
+
+        self.previous_roles = [
+            {
+                "company": "CINFO",
+                "start_date": "July 2024",
+                "end_date": "October 2026",
+                "positions": [
+                    "GenAI & Computer Vision Engineer",  # Mar 2026 - Oct 2026
+                    "AI & Computer Vision Developer",    # Sep 2025 - Mar 2026
+                    "AI Junior Developer",               # Jul 2024 - Sep 2025
+                ],
+                "description": "Production AI systems across CV, automation and GenAI infrastructure",
+            },
+        ]
+
+        self.education = {
+            "institution": "Universidade da Coruña",
+            "degree": "BSc in Computer Engineering",
+            "specialization": "Computing",
+            "start_date": "2020",
+            "end_date": "2024",
+        }
+```
 
 ---
 
