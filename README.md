@@ -113,14 +113,6 @@ class Experience:
 
 ---
 
-### 📊 &nbsp;GitHub activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=manuamest&hide_border=true&border_radius=10&background=071426&ring=69A2FF&fire=FFCB68&currStreakNum=EEF5FF&sideNums=EEF5FF&currStreakLabel=69A2FF&sideLabels=9FB0C5&dates=71849C&stroke=1B3A66" alt="GitHub streak stats" width="100%"/>
-</div>
-
----
-
 <div align="center">
   <b>Looking for an engineer who can bridge AI and production?</b>
   <br>
