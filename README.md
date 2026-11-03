@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=69A2FF&center=true&vCenter=true&width=560&lines=I+build+AI+systems+that+work+in+production.;Computer+Vision+%C2%B7+GenAI+%C2%B7+Backend+systems;3x+Hackathon+Winner+%F0%9F%8F%86;GenAI+%26+CV+Engineer+%40+CINFO+%C2%B7+Galicia+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=69A2FF&center=true&vCenter=true&width=560&lines=I+build+AI+systems+that+work+in+production.;Computer+Vision+%C2%B7+GenAI+%C2%B7+Backend+systems;3x+Hackathon+Winner+%F0%9F%8F%86;GenAI+Developer+%40+DEUS+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
 </div>
 
 <br>
@@ -30,7 +30,42 @@
 
 AI Engineer focused on **production-ready systems**: computer vision, Python backends, automated testing, observability and distributed GenAI workflows. I like owning the difficult middle, the part between a model that works in a notebook and a system that works in the real world.
 
-Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc in Computer Engineering, Universidade da Coruña.
+---
+
+### 💼 &nbsp;Experience
+
+```python
+class Experience:
+    def __init__(self):
+        self.current_role = {
+            "company": "DEUS",
+            "position": "GenAI Developer",
+            "start_date": "November 2026",
+            "end_date": "Present",
+        }
+
+        self.previous_roles = [
+            {
+                "company": "CINFO",
+                "start_date": "July 2024",
+                "end_date": "October 2026",
+                "positions": [
+                    "GenAI & Computer Vision Engineer",  # Mar 2026 - Oct 2026
+                    "AI & Computer Vision Developer",    # Sep 2025 - Mar 2026
+                    "AI Junior Developer",               # Jul 2024 - Sep 2025
+                ],
+                "description": "Production AI systems across CV, automation and GenAI infrastructure",
+            },
+        ]
+
+        self.education = {
+            "institution": "Universidade da Coruña",
+            "degree": "BSc in Computer Engineering",
+            "specialization": "Computing",
+            "start_date": "2020",
+            "end_date": "2024",
+        }
+```
 
 ---
 
@@ -74,14 +109,6 @@ Currently **GenAI & Computer Vision Engineer at CINFO** (since July 2024). BSc i
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,flask,docker,linux,gcp,githubactions,ts,js,react,nextjs,vue,nodejs,supabase,godot,unity,git&perline=11" />
-</div>
-
----
-
-### 📊 &nbsp;GitHub activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=manuamest&hide_border=true&border_radius=10&background=071426&ring=69A2FF&fire=FFCB68&currStreakNum=EEF5FF&sideNums=EEF5FF&currStreakLabel=69A2FF&sideLabels=9FB0C5&dates=71849C&stroke=1B3A66" alt="GitHub streak stats" width="100%"/>
 </div>
 
 ---
